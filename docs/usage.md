@@ -64,6 +64,9 @@ portion of the version of the SDK you would like to target. For example, at the 
 * libk4a1.3-dev
 * k4a-tools
 
+To install them use the following command
+`sudo apt install libk4a1.3-dev`
+
 Each package contains different elements.
 
 * Runtime package - contains shared objects needed to run executables that depend on libk4a.
